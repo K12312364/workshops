@@ -1,0 +1,497 @@
+"features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.012429, 
+                    38.915207
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Empowering Backbends  1830    1st Street NW Washington DC 20001", 
+                "date": "12/20/2014", 
+                "marker-symbol": "circle", 
+                "time": "4:00-6:00PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.032281, 
+                    38.9158789
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Quiet Calm and Centered for Winter Yin and Yoga Nidra Workshop      1910 14th Street NW Washington DC 20009", 
+                "date": "12/7/2014", 
+                "marker-symbol": "circle", 
+                "time": "6:30-8:30PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.01213369999999, 
+                    38.91520089999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Dharma Yogas Great Practice Maha Sadhana Workshop     1830 1st Street NW Washington DC 20001", 
+                "date": "12/13/2014", 
+                "marker-symbol": "circle", 
+                "time": "2:30-5:00PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0319535, 
+                    38.9159785
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Rocket Yoga Inversion Playshop     1910 14th Street NW Washington DC 20009", 
+                "date": "12/20/2014", 
+                "marker-symbol": "circle", 
+                "time": "11:15-1:15PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.012429, 
+                    38.915275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Rocket Yoga Transitions with Ease     1830 1st Street NW Washington DC 20001", 
+                "date": "12/21/2014", 
+                "marker-symbol": "circle", 
+                "time": "1:45-3:45PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.011826, 
+                    38.915253
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "All Levels Empowering Backbends Workshop  1830 1st Street NW Washington DC 20001", 
+                "date": "12/20/2014", 
+                "marker-symbol": "circle", 
+                "time": "4:00-6:00PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0121716, 
+                    38.9153409
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Inversions Playshop Workshop     1830 1st Street NW Washington DC 20001", 
+                "date": "1/10/2015", 
+                "marker-symbol": "circle", 
+                "time": "2:00-4:30PM", 
+                "website": "yogadistrict.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0465445, 
+                    38.9056598
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Winter Restoration     2085 M Street NW Washington DC 20036", 
+                "date": "11/29/2014", 
+                "marker-symbol": "circle", 
+                "time": "2:00-4:00 PM", 
+                "website": "georgetownyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0465538, 
+                    38.9056299
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Monkey Tails a splits workshop     2085 M Street NW Washington DC 20036", 
+                "date": "12/6/2014", 
+                "marker-symbol": "circle", 
+                "time": "2:00-4:00PM", 
+                "website": "georgetownyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0465572, 
+                    38.9056585
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Resolve to Evolve New Year's Eve Class      2085 M Street NW Washington DC 20036", 
+                "date": "12/31/2014", 
+                "marker-symbol": "circle", 
+                "time": "10:00-12:00PM", 
+                "website": "georgetownyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0422548, 
+                    38.9222326
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Handstand Clinic      2469 18th Street NW Washington DC 20009", 
+                "date": "1/11/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:30-3:00PM", 
+                "website": "thestudiodc.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0423199, 
+                    38.921479
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Yoga for the Average Body     2469 18th Street NW Washington DC 20009", 
+                "date": "1/18/2015", 
+                "marker-symbol": "circle", 
+                "time": "2:00-3:45PM", 
+                "website": "thestudiodc.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03881400000002, 
+                    38.912275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Moon Days a restorative postures event      1632 17th Street NW Washington DC 20009", 
+                "date": "12/6/2014", 
+                "marker-symbol": "circle", 
+                "time": "1:00-3:00PM", 
+                "website": "tranquilspace.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.038461, 
+                    38.91222920000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Preparing for Birth with Yoga     1632 17th Street NW Washington DC 20009", 
+                "date": "1/11/2015", 
+                "marker-symbol": "circle", 
+                "time": "12:00-3:30PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0338143, 
+                    38.9093432
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Settling into Stillness Candlelight Flow      1450 P Street NW Washington DC 20005", 
+                "date": "12/5/2014", 
+                "marker-symbol": "circle", 
+                "time": "8:00-10:00PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0338203, 
+                    38.9097935
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Asana Clinic Forward Folds   1450 P Street NW Washington DC 20005", 
+                "date": "12/7/2014", 
+                "marker-symbol": "circle", 
+                "time": "1:15-3:15PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03387889999999, 
+                    38.9096384
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Backbends for Painful Backs    1450 P Street NW Washington DC 20005", 
+                "date": "12/14/2014", 
+                "marker-symbol": "circle", 
+                "time": "2:00-3:30PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0338493, 
+                    38.9096671
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Yoga for Depression    1450 P Street NW Washington DC 20005", 
+                "date": "1/17/2015", 
+                "marker-symbol": "circle", 
+                "time": "2:00-4:00PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03418099999999, 
+                    38.909444
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Asana Clinic Yogas Twists    1450 P Street NW Washington DC 20005", 
+                "date": "1/18/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:15-3:15PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0338781, 
+                    38.9096671
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Asana Clinic Bridges and Wheels    1450 P Street NW Washington DC 20005", 
+                "date": "2/15/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:15-3:15PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03418099999999, 
+                    38.909444
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Asana Clinic Crow    1450 P Street NW Washington DC 20005", 
+                "date": "4/12/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:15-3:15PM", 
+                "website": "flowyogacenter.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.032378, 
+                    38.932234
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Pregnant and Powerful A Prenatal Workshop    3423 14th Street NW Washington DC 20010", 
+                "date": "1/11/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:45-3:45PM", 
+                "website": "kaliyogadc.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0327594, 
+                    38.9324827
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Four Session Beginners Workshop    3423 14th Street NW Washington DC 20010", 
+                "date": "1/10/2015", 
+                "marker-symbol": "circle", 
+                "time": "2:00-3:00PM", 
+                "website": "kaliyogadc.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.032378, 
+                    38.932296
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Ashtanga Standing Postures    3423 14th Street NW Washington DC 20010", 
+                "date": "12/7/2014", 
+                "marker-symbol": "circle", 
+                "time": "1:45-3:45PM", 
+                "website": "kaliyogadc.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.997081, 
+                    38.884675
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Couples Yoga Workshop for Labor and Delivery    641 Pennsylvania Avenue SE Washington DC 20003", 
+                "date": "12/13/2014", 
+                "marker-symbol": "circle", 
+                "time": "2:00-5:00PM", 
+                "website": "capitolhillyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9972538, 
+                    38.885242
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Turn On Tune In Bliss Out A Restorative Yoga Workshop    641 Pennsylvania Avenue SE Washington DC 20003", 
+                "date": "12/20/2014", 
+                "marker-symbol": "circle", 
+                "time": "3:00-5:00PM", 
+                "website": "capitolhillyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.99701499999999, 
+                    38.884656
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "A New Years Day Awakening    641 Pennsylvania Avenue SE Washington DC 20003", 
+                "date": "1/1/2015", 
+                "marker-symbol": "circle", 
+                "time": "2:00-4:15PM", 
+                "website": "capitolhillyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.99722560000001, 
+                    38.8852308
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Barefoot Bootcamp    641 Pennsylvania Avenue SE Washington DC 20003", 
+                "date": "1/10/2015", 
+                "marker-symbol": "circle", 
+                "time": "1:00-5:00PM", 
+                "website": "capitolhillyoga.com"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.996886, 
+                    38.884552
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Yoga Basics six week course    641 Pennsylvania Avenue SE Washington DC 20003", 
+                "date": "1/17/2015", 
+                "marker-symbol": "circle", 
+                "time": "12:30-1:45PM", 
+                "website": "capitolhillyoga.com"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
